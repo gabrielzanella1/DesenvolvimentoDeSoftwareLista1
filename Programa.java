@@ -72,6 +72,10 @@ public class Programa {
         Exercicio17.executar();
         */
 
+        /* 
         Exercicio18.executar();
+        */
+
+        Exercicio19.executar();
     }
 }
