@@ -24,6 +24,11 @@ public class Programa {
         Exercicio05.executar();
          */
 
+        /* 
          Exercicio06.executar();
+        */
+
+        Exercicio07.executar();
+
     }
 }
