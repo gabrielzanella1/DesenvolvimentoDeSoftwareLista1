@@ -68,6 +68,10 @@ public class Programa {
         Exercicio16.executar();
         */
 
+        /* 
         Exercicio17.executar();
+        */
+
+        Exercicio18.executar();
     }
 }
