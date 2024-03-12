@@ -1,4 +1,5 @@
 public class Exercicio03 {
+    
     public static void executar(){
 
         int A = Prompt.lerInteiro("Informe o primeiro número:");
